@@ -1,0 +1,38 @@
+html {
+    background-color: #1313cb;;
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+main {
+    margin-top: 6rem;
+}
+h1 {
+    font-size: 4 rem;
+}
+input {
+    border: none;
+    outline: none;
+    font-size: 2rem;
+    background: none;
+    color:white;
+    border-bottom: 1px solid white;
+    padding: 0.5 rem;
+}
+input::placeholder {
+    color :white;
+}
+button {
+    background-color:#d64444;
+    border: none;
+    outline: none;
+    padding: 0.5 rem 1.5rem;
+    color: white;
+    font-family: 'Roboto';
+    font-weight: bold;
+    border-radius: 0.5 rem;
+    height: 2.5rem;
+    cursor:pointer;
+    margin-left: 1rem;;
+
+}
